@@ -1,0 +1,80 @@
+<html>
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131755245-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-131755245-1');
+    </script>
+
+    <link rel="stylesheet" href="myWebPageStyle.css">
+    <meta charset="UTF-8">
+    
+    <title>Andrei's webpage</title>
+  </head>
+  <body> <div class="content">
+      <h1 style="text-align:left">
+	<a href="https://www.um.edu.mo"><img src="pics/UM-Logo-120px.png" alt="UM Logo"></a>	
+	&nbsp<hr style="width: 1px; height: 80px; display: inline-block;">&nbsp
+	<a href="https://fst.um.edu.mo"><img src="pics/FST-100px.png" alt="FST Logo"></a>	
+      </h1>
+      <div class="row">
+	<div class="column left">
+	  <p><font size="5">HU Guanghui, 胡光辉 <a href="HuGuanghui_CV.pdf"><font size="4" style="font-weight: normal">&nbsp&nbsp curriculum vitae</font></a>
+	  </font></p>
+	  <p>L'année 1311 est une année commune qui commence un vendredi.</p>
+	  <p>L'année 1311 est une année commune qui commence un vendredi.</p>
+	  <p>&nbsp</p>
+	  <p>Office No.: +8767876876,&nbsp&nbsp Fax: +786876786</p>
+	  <p>Mail: Post address.</p>
+	  <p>Email: email</p>
+	  <p>Official Webpage: <a href="https://www">https://www</a></p>
+	</div>
+	<div class="column right">
+	  <p><img style="float:right" src="./pics/HuGuanghui-256px.jpg"></p><br>	  
+	</div>
+      </div>
+      
+      <h2>Education</h2>
+      <ul>
+	<li>University, 2010</li>
+      </ul>
+      <br>
+      
+      <h2>Work Experience</h2>
+      <ul>
+	<li>University, August 2018 - present </li>
+	<li>University, August 2018 - present </li>
+      </ul>
+      <br>
+
+    
+      
+      <h2>Research Interests &nbsp&nbsp<a href="./publication.html"><font size=3>Publications</font></a>&nbsp&nbsp<a href="./presentation.html"><font size=3>Presentations</font></a></h2>
+      <div class="row">
+	<div class="column left">
+	  <ul>
+	    <li>
+	      L'année 1311 est une année commune qui commence un vendredi.
+	      L'année 1311 est une année commune qui commence un vendredi.
+	      L'année 1311 est une année commune qui commence un vendredi.
+	    
+	    </li>
+	    <li>
+	      L'année 1311 est une année commune qui commence un vendredi.
+	    </li>
+	  </ul>
+	  <br>
+	</div>
+
+      <br>      
+      <p align="right">
+	<font size=2 style="font-style: italic;">Powered by </font>
+	<a href="http://pages.github.com"><img src="pics/GitHub-Mark-64px.png"></a>
+	<a href="https://www.w3.org"><img src="pics/HTML5_1Color_Black.png" width="64px"></a>
+      </p>
+    </div>
+  </body>
+</html>
